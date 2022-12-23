@@ -38,57 +38,57 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true] // Jangan Du Hapus Nanti eror 
+['628970706704', 'Iman', true],
+['628970706704', 'Iman', true],
+['628970706704', 'Iman', true] // Jangan Du Hapus Nanti eror 
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
+global.nomorbot = '6285172026103'
+global.nomorown = '628970706704'
+global.nomorown1 = '628970706704'
+global.nomorown2 = '628970706704'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝘼𝙗𝙞𝘿𝙚𝙫 X 𝙭𝙧𝙗𝙤𝙩'
-global.namebot = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
+global.author = 'Iman X Noar'
+global.namebot = 'Noar 𝗺𝗱'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Noar 𝗺𝗱'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱 '
+global.wm = 'Noat 𝗺𝗱 '
 global.watermark = wm
-global.wm2 = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱 '
+global.wm2 = 'Noar 𝗺𝗱 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝘼𝙗𝙞𝘿𝙚𝙫 𝐗 𝙭𝙧𝙗𝙤𝙩`
-global.stickpack = '𝘼𝙗𝙞𝘿𝙚𝙫 𝐗 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
-global.stickauth = `© 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱`
+global.titlebot = `Iman 𝐗 Noar`
+global.stickpack = 'Iman 𝐗 Noar 𝗺𝗱'
+global.stickauth = `© Noar 𝗺𝗱`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝘼𝙗𝙞𝘿𝙚𝙫'
-global.nameown2 = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
+global.nameown1= 'Iman'
+global.nameown2 = 'Noat 𝗺𝗱'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '𝐆𝐝𝐚 𝐖𝐤𝐰𝐤'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/Abityru24'
-global.sgh = 'https://github.com/AbiDev11' //github
-global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
+global.sig = '-'
+global.sgh = '-' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/--'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '088232154376'
+global.pdana = '08970706704'
 global.povo = '-'
-global.pgopay = '088232154376'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '088232154376'
+global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
